@@ -1,6 +1,6 @@
 <?php
 
-class Recursive
+class Iterative
 {
 
     public function chop($needle, $haystack)
